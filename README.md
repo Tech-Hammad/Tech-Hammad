@@ -74,7 +74,7 @@ A website with prayer schedule and Qibla finder.
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,html,css,js)
+![Frontend](https://skillicons.dev/icons?i=react,html,css,js,tailwind.css)
 
 **Backend / Infra**
 
